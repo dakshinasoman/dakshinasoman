@@ -1,16 +1,16 @@
 Hi there 👋🏻
 
-I am currently pursuing Post Graduate Program in Data Sceince from Purdue University US in collaboration with IBM.
-I am a Btech Graduate in Computer Science Engineering passed out in 2018.
-In the past, I have worked as Associate Analyst for past 1 year.
+A Certified Data Scientist actively seeking challenging entry-level assignments in Data Science with an organization of high repute. 
+Holds over two years of professional experience in a multinational environment. Adept at leveraging analytical and technical skills 
+to deliver insights from a large volume of data.
 
 Things I'm good at 🔥
 
-Domain: Data Wrangling, Data Visualization.
+Domain: Data Science and Business Analytics
 
-Languages: Python, R.
+Languages: Python, R, SQL
 
-Libraries & Tools: NumPy, Pandas, Scikit-Learn, SciPy, Matplotlib.
+Libraries & Tools: NumPy, Pandas, Scikit-Learn, SciPy, Matplotlib, Excel.
 
 Data Analysis: Exploratory Data Analysis, Ensemble Methods, Basic Statistical Foundation, Model Development & Evaluation Metrics, Quantitative Methods, Google Analytics.
 
